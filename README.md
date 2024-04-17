@@ -1,0 +1,1 @@
+# ProjetoGestaodeEquipamentos.ConsoleApp
